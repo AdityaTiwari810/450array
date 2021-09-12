@@ -11,7 +11,7 @@ def minmaxele(a,n):
         max = a[1]
         min = a[0]
     for i in range(n):
-        if a[i] < min:
+        if a[i] < min:CG
             min = a[i]
         elif a[i] > max:
             max = a[i]
